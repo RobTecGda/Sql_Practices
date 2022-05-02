@@ -5,6 +5,7 @@
 -- Interval
 
 -- Operations:
+'2 hours'::interval
 
 -- Challenge:
 -- Calculate the length of each ride. Sort the query from the longest to the shortest.
