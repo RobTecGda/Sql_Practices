@@ -6,6 +6,6 @@
 --> regex
 --> text search
 
-for practice regular expressions
-https://regex101.com/
-https://en.wikipedia.org/wiki/Regular_expression
+-- for practice regular expressions
+-- https://regex101.com/
+-- https://en.wikipedia.org/wiki/Regular_expression
